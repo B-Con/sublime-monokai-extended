@@ -1,5 +1,9 @@
 # [sublime-monokai-extended](https://github.com/jonschlinkert/sublime-monokai-extended)
 
+This is a fork of a Sublime Text colore scheme. Original by jonschlinkert. My modifications are purely for personal preference.
+
+---
+
 > Extends Monokai from Soda with new syntax highlighting for Markdown, LESS, and Handlebars and improved syntax highlighting for RegEx, HTML, LESS, CSS, JavaScript and more.
 
 Companion to [sublime-markdown-extended](https://github.com/jonschlinkert/sublime-markdown-extended).
