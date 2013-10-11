@@ -31,7 +31,7 @@
 				<key>activeGuide</key>
 				<string>#9d550fb0</string>
 				<key>background</key>
-				<string>#222222</string>
+				<string>#070707</string>
 				<key>bracketContentsForeground</key>
 				<string>#f8f8f2a5</string>
 				<key>bracketContentsOptions</key>
@@ -68,7 +68,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#75715e</string>
+				<string>#66676a</string>
 			</dict>
 		</dict>
 		<dict>
@@ -210,7 +210,7 @@
 			<key>settings</key>
 			<dict>
 				<key>fontStyle</key>
-				<string> italic</string>
+				<string></string>
 				<key>foreground</key>
 				<string>#fd971f</string>
 			</dict>
@@ -931,7 +931,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#75715e</string>
+				<string>#66676a</string>
 			</dict>
 		</dict>
 		<dict>
@@ -1043,9 +1043,9 @@
 			<key>settings</key>
 			<dict>
 				<key>fontStyle</key>
-				<string>italic</string>
+				<string></string>
 				<key>foreground</key>
-				<string>#75715e</string>
+				<string>#66676a</string>
 			</dict>
 		</dict>
 		<dict>
