@@ -51,9 +51,9 @@
 				<key>invisibles</key>
 				<string>#3b3a32</string>
 				<key>lineHighlight</key>
-				<string>#333333</string>
+				<string>#222426</string>
 				<key>selection</key>
-				<string>#444444</string>
+				<string>#424446</string>
 				<key>selectionBorder</key>
 				<string>#1c1c1c</string>
 				<key>tagsOptions</key>
